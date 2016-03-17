@@ -1,0 +1,4 @@
+function Saludar()
+{
+	alert($("p"));
+}
